@@ -3,5 +3,10 @@
     "plugins": [
         "jsfiddle",
         "assistant"
-    ]
+    ],
+    "pdf": {
+        "margin": {
+            "top": 0
+        }
+    }
 }
